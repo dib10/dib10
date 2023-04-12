@@ -1,4 +1,4 @@
-### Olá eu sou o Caio😄
+### Olá eu sou o Caio.😄
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:caio.dib@aluno.ifsp.edu.br)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/caio-dib-673482264/)
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dib10)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"> 
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
