@@ -5,7 +5,8 @@
 
 
 
-[![Logo Taqe](https://i.imgur.com/WJ6ac4V.png)](https://www.taqe.com.br/)
+[![Logo Taqe](https://i.imgur.com/nAmJ4TY_d.webp)](https://www.taqe.com.br/)
+
 
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=dracula)
