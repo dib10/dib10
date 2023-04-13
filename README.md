@@ -6,7 +6,7 @@
 
 
 
-[![Logo Taqe](https://imgur.com/a/WJ6ac4V)](https://www.taqe.com.br/)
+[![Logo Taqe](https://imgur.com/a/WJ6ac4V.png)](https://www.taqe.com.br/)
 
 
 
