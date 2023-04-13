@@ -3,12 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/caio-dib-673482264/)
 
-
-
-[![Logo Taqe](https://i.imgur.com/nAmJ4TY_d.webp?maxwidth=200&fidelity=high)](https://www.taqe.com.br/)
-
-
-
+[![Logo Taqe](https://i.imgur.com/nAmJ4TY_d.webp?maxwidth=80&shape=thumb&fidelity=medium)](https://www.taqe.com.br/)
 
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=dracula)
