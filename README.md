@@ -1,4 +1,4 @@
-### Olá eu sou o Caio.😄
+### Olá, eu sou o Caio.😄☕️
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:caio.dib@aluno.ifsp.edu.br)
 
