@@ -5,6 +5,11 @@
 
 
 
+
+[![Logo Taqe](https://imgur.com/a/WJ6ac4V)](https://www.taqe.com.br/)
+
+
+
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dib10)](https://github.com/anuraghazra/github-readme-stats)
