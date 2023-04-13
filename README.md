@@ -5,7 +5,9 @@
 
 
 
-[![Logo Taqe](https://i.imgur.com/nAmJ4TY_d.webp)](https://www.taqe.com.br/)
+[![Logo Taqe](https://i.imgur.com/nAmJ4TY_d.webp?maxwidth=200&fidelity=high)](https://www.taqe.com.br/)
+
+
 
 
 
