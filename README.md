@@ -32,4 +32,3 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 https://github.com/dib10/dib10/blob/output/github-contribution-grid-snake.svg
-
