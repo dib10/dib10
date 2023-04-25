@@ -24,16 +24,16 @@
 
 ## Livros utilizados :
 ### 📚 C:
-◉ Linguagem C - 10ª Edição, de L. Dantas: 
+◉ Linguagem C - 10ª Edição, de L. Dantas.
 
 ### 🐍Python: 
-◉ Introdução à Programação com Python, de N. N. C. Menezes 
+◉ Introdução à Programação com Python, de N. N. C. Menezes .
 
-◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes
+◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes.
 
 
 ### 🐬SQL: 
-◉ Use a cabeça! SQL, de L. Beighle: Este é o livro que utilizo para estudar SQL.
+◉ Use a cabeça! SQL, de L. Beighle.
 
 ◉ Getting Started with SQL: A Hands-On Approach for Beginners, de T. Nield.
 <hr>
