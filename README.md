@@ -22,7 +22,7 @@
 <br>
 <hr>
 
-## Livros utilizados :
+## Livros utilizados:
 ### 📚 C:
 ◉ Linguagem C - 10ª Edição, de L. Dantas.
 
@@ -38,7 +38,7 @@
 ◉ Getting Started with SQL: A Hands-On Approach for Beginners, de T. Nield.
 <hr>
 
-## Ambientes de desenvolvimento :
+## Ambientes de desenvolvimento:
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
