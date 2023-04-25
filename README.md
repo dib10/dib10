@@ -20,6 +20,23 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 <br>
+<hr>
+
+## Livros utilizados :
+### 📚 C:
+◉ Linguagem C - 10ª Edição, de L. Dantas: 
+
+### 🐍Python: 
+◉ Introdução à Programação com Python, de N. N. C. Menezes 
+
+◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes
+
+
+### 🐬SQL: 
+◉ Use a cabeça! SQL, de L. Beighle: Este é o livro que utilizo para estudar SQL.
+
+◉ Getting Started with SQL: A Hands-On Approach for Beginners, de T. Nield.
+<hr>
 
 ## Ambientes de desenvolvimento :
 
