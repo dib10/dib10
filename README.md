@@ -1,9 +1,11 @@
 ### Olá, eu sou o Caio. 😄☕️
+<br>
 <p align="left">
   <a href="https://github.com/dib10/dib10/blob/main/README.md">
-    <img src="https://i.imgur.com/1MfeRG6.png" alt="Descrição da imagem" width="200"/>
+    <img src="https://i.imgur.com/mh85fcU.png" alt="Descrição da imagem" width="200"/>
   </a>
 </p>
+
 
 
 
