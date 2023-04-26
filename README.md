@@ -6,9 +6,10 @@
 
 <p align="left">
   <a href="http://gru.ifsp.edu.br/index.php/superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas.html">
-    <img src="https://imgur.com/a/qw9HGvj" alt="Descrição da imagem" width="200"/>
+    <img src="https://i.imgur.com/mh85fcU.png" alt="Descrição da imagem" width="200"/>
   </a>
 </p>
+
 
 
 
@@ -37,21 +38,21 @@
 
 ## Livros utilizados :
 ### 📚 C:
-◉ Linguagem C - 10ª Edição, de L. Dantas.
+◉ Linguagem C - 10ª Edição, de L. Dantas: 
 
 ### 🐍Python: 
-◉ Introdução à Programação com Python, de N. N. C. Menezes.
+◉ Introdução à Programação com Python, de N. N. C. Menezes 
 
-◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes.
+◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes
 
 
 ### 🐬SQL: 
-◉ Use a cabeça! SQL, de L. Beighle.
+◉ Use a cabeça! SQL, de L. Beighle: Este é o livro que utilizo para estudar SQL.
 
 ◉ Getting Started with SQL: A Hands-On Approach for Beginners, de T. Nield.
 <hr>
 
-## Ambientes de desenvolvimento:
+## Ambientes de desenvolvimento :
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
