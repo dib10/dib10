@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="http://gru.ifsp.edu.br/index.php/superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas.html">
-    <img src="https://i.imgur.com/mh85fcU.png" alt="Descrição da imagem" width="200"/>
+    <img src="https://imgur.com/a/qw9HGvj" alt="Descrição da imagem" width="200"/>
   </a>
 </p>
 
