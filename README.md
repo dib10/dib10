@@ -65,3 +65,15 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## Cursos:
+
+🐍Python - Curso em vídeo [120 horas];
+
+🐬MySQL - Curso em vídeo [40 horas];
+
+🐍Python - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [Em andamento];
+
+🤖 Mimo - App de uso diário em formato de gamificação para fixar conceitos de programação.
+
+
