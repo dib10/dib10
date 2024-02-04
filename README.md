@@ -41,22 +41,6 @@ Portfólio: https://portfolio-azure-theta-33.vercel.app/
 <br>
 <hr>
 
-## Livros utilizados :
-### 📚 C:
-◉ Linguagem C - 10ª Edição, de L. Dantas: 
-
-### 🐍Python: 
-◉ Introdução à Programação com Python, de N. N. C. Menezes 
-
-◉ Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação, de Eric Matthes
-
-
-### 🐬SQL: 
-◉ Use a cabeça! SQL, de L. Beighle: Este é o livro que utilizo para estudar SQL.
-
-◉ Getting Started with SQL: A Hands-On Approach for Beginners, de T. Nield.
-<hr>
-
 ## Ambientes de desenvolvimento :
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -67,14 +51,5 @@ Portfólio: https://portfolio-azure-theta-33.vercel.app/
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Cursos:
-
-🐍Python - Curso em vídeo [120 horas];
-
-🐬MySQL - Curso em vídeo [40 horas];
-
-🐍Python - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [Em andamento];
-
-🤖 Mimo - App de uso diário em formato de gamificação para fixar conceitos de programação.
 
 
