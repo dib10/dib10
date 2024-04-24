@@ -31,7 +31,7 @@ Portfólio: https://portfolio-azure-theta-33.vercel.app/
 
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=dracula)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=gotham)
 
 
 ## Tecnologias que eu uso no meu dia:
