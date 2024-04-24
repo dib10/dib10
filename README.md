@@ -20,6 +20,7 @@ Portfólio: https://portfolio-azure-theta-33.vercel.app/
 
 
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib10&layout=compact&count_private=true&theme=gotham&show" />
 
 
 
