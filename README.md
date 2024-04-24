@@ -20,13 +20,19 @@ Portfólio: https://portfolio-azure-theta-33.vercel.app/
 
 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib10&layout=compact&count_private=true&theme=gotham&show" />
+<a href="https://github.com/dib10#gh-light-mode-only">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib10&layout=compact&count_private=true&theme=graywhite&show" />
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=dib10&theme=graywhite&locale=pt_BR" />
+    </a>
+    <a href="https://github.com/dib10#gh-dark-mode-only">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib10&layout=compact&count_private=true&theme=gotham&show" />
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=dib10&theme=gotham&locale=pt_BR" />
+    </a>
 
 
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=dib10&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dib10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia:
 
