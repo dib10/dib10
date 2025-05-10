@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Desenvolvedor%20Full%20Stack;ADS%20-%20INSTITUTO%20FEDERAL%20DE%20S%C3%83O%20PAULO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Desenvolvedor%20Backend;ADS%20-%20INSTITUTO%20FEDERAL%20DE%20S%C3%83O%20PAULO)](https://git.io/typing-svg)
 
   <p>🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSP</p>
   <p>💼 Portfólio: <a href="https://caiodib.vercel.app/" target="_blank">caiodib.vercel.app</a></p>
