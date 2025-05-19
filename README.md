@@ -8,7 +8,7 @@
   <p>💼 Portfólio: <a href="https://caiodib.vercel.app/" target="_blank">caiodib.vercel.app</a></p>
 
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:caio.dib@aluno.ifsp.edu.br)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dib-673482264/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/caio-dib-673482264/](https://www.linkedin.com/in/caiodib10/)](https://www.linkedin.com/in/caiodib10/))
   [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://caiodib.vercel.app/)
 
 </div>
